@@ -10,5 +10,7 @@ namespace LearnDocker
         public string EnvKey { get; set; }
 
         public string ApiKey { get; set; }
+
+        public string JWTKey { get; set; }
     }
 }
